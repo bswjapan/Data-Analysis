@@ -199,3 +199,6 @@ adalah pelajar, sedangkan 6% sisanya bekerja.
   
 ## Dashboard
 - <a href="https://github.com/bswjapan/Data-Analysis/blob/main/Restaurant%20Ratings%20Analysis.pbix">pbi
+
+## Picture dashboard
+- <a href="https://github.com/bswjapan/Data-Analysis/blob/main/Screenshot%202026-09-01%20190001.png">Picture
