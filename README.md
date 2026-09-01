@@ -197,4 +197,5 @@ adalah pelajar, sedangkan 6% sisanya bekerja.
 ##Data Set
 - <a href="https://github.com/bswjapan/Data-Analysis/blob/main/consumer_preferences.csv">Dataset
   
-## Dasbor
+## Dashboard
+- <a href="https://github.com/bswjapan/Data-Analysis/blob/main/Restaurant%20Ratings%20Analysis.pbix">pbi
