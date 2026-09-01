@@ -202,3 +202,6 @@ adalah pelajar, sedangkan 6% sisanya bekerja.
 
 ## Picture dashboard
 - <a href="https://github.com/bswjapan/Data-Analysis/blob/main/Screenshot%202026-09-01%20190001.png">Picture
+
+<img width="1329" height="735" alt="Screenshot 2026-09-01 190001" src="https://github.com/user-attachments/assets/94fc88ec-b621-4a11-80af-592111c3e69c" />
+
